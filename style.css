@@ -1,0 +1,61 @@
+body{
+    margin: 0;
+}
+
+.header{
+    background-color: black;
+    color: white;
+    margin: 0;
+    padding: 20px;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.info{
+    padding-left: 20px;
+    padding-right: 20px;
+    text-align: justify;
+}
+
+.list{
+    padding: 20px;
+    padding-left: 50px;
+    margin: 0;
+    border: 2px double black;
+    margin: 10px;
+}
+
+.list li{
+    padding: 5px;
+}
+
+.box{
+    background-color: aqua;
+    margin: 20px;
+    padding: 30px;
+    font-size: 14pt;
+    text-align: justify;
+    border-radius: 10px;
+}
+
+.goto{
+    background-color: black;
+    color: white;
+    padding: 10px;
+    border-radius: 5px;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+
+.goto:hover{
+    background-color: coral;
+    color: black;
+    transition: 0.5s;
+}
+
+.end{
+    background-color: black;
+    color: whitesmoke;
+    text-align: center;
+    padding: 30px;
+}
